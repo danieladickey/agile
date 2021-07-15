@@ -1,0 +1,16 @@
+*.iml
+.idea
+out/
+__pycache__
+*.pyc
+*.idea
+venv
+.DS_Store
+.vscode
+db.sqlite3
+*.zip
+**/cmake-build-debug/
+*.out
+build/
+build2/
+BEE_DATA/
